@@ -1,0 +1,45 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+     background:  url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1011%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(14%2c 41%2c 71%2c 1)'%3e%3c/rect%3e%3cpath d='M1039.74 22.2a10.27 10.27 0 1 0 14.34 14.71z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M204.91 450.71L228.62 450.71L228.62 491.36L204.91 491.36z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M259.18 23.7a41.84 41.84 0 1 0-5.97 83.47z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M965.55 476.1L999.44 476.1L999.44 496.04L965.55 496.04z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M578.19 458.69L578.84 458.69L578.84 504.14L578.19 504.14z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M1234.04 133.66L1279.79 133.66L1279.79 134.54L1234.04 134.54z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M983.05 413.09a37.01 37.01 0 1 0-72.67-14.11z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M1327.4 338.26 a41 41 0 1 0 82 0 a41 41 0 1 0 -82 0z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M199.4 241.17L206.45 241.17L206.45 247.24L199.4 247.24z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M1086.23 506.53 a15.14 15.14 0 1 0 30.28 0 a15.14 15.14 0 1 0 -30.28 0z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M326.19 505.64a51.46 51.46 0 1 0 61-82.9z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M380.07 252.62L390.92 252.62L390.92 266.52L380.07 266.52z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M332.53 394.59a7.43 7.43 0 1 0 5.45-13.83z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M639.04 490.48 a24.27 24.27 0 1 0 48.54 0 a24.27 24.27 0 1 0 -48.54 0z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M1103.13 247.06L1111.6 247.06L1111.6 285.53L1103.13 285.53z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M437.95 316.1 a31.3 31.3 0 1 0 62.6 0 a31.3 31.3 0 1 0 -62.6 0z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M539.35 62.1L574.58 62.1L574.58 97.33L539.35 97.33z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M538.12 259.08L553.67 259.08L553.67 261.29L538.12 261.29z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M192.73 162.4 a5.87 5.87 0 1 0 11.74 0 a5.87 5.87 0 1 0 -11.74 0z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M1148.04 391.87L1194.99 391.87L1194.99 438.82L1148.04 438.82z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M618.75 495.13L662.94 495.13L662.94 539.32L618.75 539.32z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M562.01 362.29L614.17 362.29L614.17 392.96L562.01 392.96z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M664.72 91.78L715.9 91.78L715.9 117.97L664.72 117.97z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M441.35 231.35L472.14 231.35L472.14 276.89L441.35 276.89z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M787.06 11.07 a14.12 14.12 0 1 0 28.24 0 a14.12 14.12 0 1 0 -28.24 0z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M89.19 497.33 a4.03 4.03 0 1 0 8.06 0 a4.03 4.03 0 1 0 -8.06 0z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M616.73 54.79L637.78 54.79L637.78 75.84L616.73 75.84z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M1408.73 300.53a55.84 55.84 0 1 0-110.99-12.33z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M1271.71 178.32 a12.8 12.8 0 1 0 25.6 0 a12.8 12.8 0 1 0 -25.6 0z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M961.68 70.1a31.32 31.32 0 1 0-46.27-42.24z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M855.16 340.69 a53.33 53.33 0 1 0 106.66 0 a53.33 53.33 0 1 0 -106.66 0z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M281.87 99.56 a8.04 8.04 0 1 0 16.08 0 a8.04 8.04 0 1 0 -16.08 0z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M49.8 410.52L94.3 410.52L94.3 414.01L49.8 414.01z' fill='%23e73635'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1011'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+  }
+  
+  form {
+    background-color: #adadad;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  input {
+    width: 97%;
+    height: 40px;
+    font-size: 24px;
+    text-align: right;
+    margin-bottom: 10px;
+    border: none;
+    padding: 5px;
+  }
+  
+  button {
+    flex: 1;
+    padding: 35px;
+    height: 50px;
+    font-size: 18px;
+    margin: 15px;
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  button:active {
+    background-color: #45a049;
+  }
+  
+
